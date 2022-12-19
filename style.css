@@ -1,0 +1,150 @@
+*{
+    margin:0;
+    padding:0;
+}
+.heade1{
+    background-color: whites;
+    height:200px;
+    padding-left: 250px;
+    padding-top: 20px;
+}
+.logo{
+    height: 600px;
+    width: 50px;
+}
+    .navigation{
+        width: 65%;
+        height: 100px;
+        display:flex;
+        padding-top: 15px;
+        background-color:white ;
+        margin-left: 30%;
+        margin-top: -150px;
+
+    }
+    .button1{
+        color: rgb(64, 56, 56);
+        width:120px;
+        padding: 25px;
+        font-weight:400 ;
+      font-size:20px;
+    }
+    .t{
+        width: 190px;
+    }
+    .logo{
+        background-color:white;
+        width:50px;
+        height: 50px;
+        margin-top: 20px;
+
+    }
+    .body1{
+        width:100%;
+    }
+    .body2{
+        background-color:white;
+        width: 100%;
+        height: 500%;
+        margin: auto auto;
+      
+    }
+    .text1{
+        background-color:rgb(245, 244, 234);
+         font-size: 40px;
+         font-style: normal;
+         font-weight: 1;
+        color: #f26f21;
+        text-align: center;
+        padding-top: 50px;
+        font-family: "Source Sans Pro", Arial, Helvetica, sans-;
+    }
+    .subtext{
+        font-size: 21px;
+        font-weight: 50;
+        font-style: normal;
+        text-align: center;
+        padding-bottom:85px ;
+    }
+    .linetext{
+        font-size: 45px;
+        color: #f26f21;
+       text-align: center;
+       width:20%;
+       font-weight: 10;
+       margin-top: -10px;
+       font-family:"Source Sans Pro", Arial, Helvetica, sans-;
+    }
+    .line1{
+       size:2px;
+       width:40%;
+       margin: auto;
+       color: #f26f21;
+       
+    }
+    .line2{
+        font-size: 3px; 
+        color: #f77a32;
+         width:40%;
+        margin: auto;
+    }
+    .margin{
+         background-color:rgb(245, 244, 234) ;
+         margin-top: -80px;
+        display: flex;
+        height: 30px;
+     }
+     .body3{
+        
+        background-color: rgb(245, 244, 234);
+        width: 100%;
+         }
+         .part1{
+            background-color: rgb(227, 223, 221);
+            width:40%;
+            padding-top: 100px;
+            padding-left: 18880px;
+        }
+        .label1{
+            background-color: rgb(245, 244, 234);
+            color:#f26f21;
+            font-style: normal;
+            padding-left: 25%;
+            font-size: 20px;
+            font-family:"Source Sans Pro", Arial, Helvetica, sans-serif ;
+            width: 21%
+            
+        
+        }.eassy{
+          background-color:rgb(245, 244, 234);
+          padding-left: 170px;
+          text-align: justify;
+          width: 40%;
+          color:gray;
+          padding-right: 100px;
+          padding-top: 40px;
+          font-size:  25px;
+          font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+          font-style: normal;
+      
+        }
+        .click{
+            background-color: #f26f21;
+            border: none;
+            color:aliceblue;
+            font-size: 21px;
+            width: 17%;
+            line-height:17px;
+            display: inline-block;
+            margin-top: 35px;
+            margin-left: 425px;
+            padding: 13px 29px;
+        }
+
+        
+             
+
+    
+
+    
+

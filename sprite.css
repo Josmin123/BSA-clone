@@ -1,0 +1,36 @@
+*{
+   
+}
+
+.image1{
+    float: left;
+}
+.image2{
+    float:right;
+}
+.label1{
+   
+}
+.label2{
+    
+
+}
+.pictext{
+    text-align: justify;
+    margin-right: 1000px;
+}
+
+  
+    
+     .click1{ 
+        background-color: #f26f21;
+        border: none;
+        color:aliceblue;
+        font-size: 21px;
+        width: 17%;
+        line-height:17px;
+        display: inline-block;
+        margin-top: 35px;
+        margin-left: 425px;
+        padding: 13px 29px;
+    }
